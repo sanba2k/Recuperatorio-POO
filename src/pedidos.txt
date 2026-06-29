@@ -1,0 +1,5 @@
+N;1001;Juan Perez;10;2500;Buenos Aires;3;true
+U;1002;Maria Lopez;5;3200;24;ALTA;true
+M;1003;Pedro Gomez;20;1800;15;10;ORO
+I;1004;Ana Ruiz;8;5000;Chile;12;USD
+N;1005;Carlos Lopez;15;2000;Cordoba;2;false
